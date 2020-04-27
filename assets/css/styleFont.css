@@ -1,0 +1,67 @@
+.altera-fontes {
+   font-style: normal; 
+   font-size: 0.90em;
+   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+/* COR DA FONT DOS ABERTO E EM ANDAMENTO  */
+.font-aberto{
+    color: #FF6347;
+    font-weight: bold;
+}
+.font-andamento{
+    color: #4682B4;
+    font-weight: bold;
+}
+.font-fechado{
+	color: #000000;
+	font-weight: bold;
+}
+.font-reaberto{
+  color: #000000;
+  
+}
+/* TABELA DO PERFIL USUÁRIO */
+.minha-tabela {
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+.minha-tabela, .minha-tabela tr {
+    border: 0px #000 solid;
+  
+}
+.minha-tabela, .minha-tabela td {
+    border: 0px #000 solid;
+
+}
+
+/* TABELA ZEBRADA */
+  .table tr:nth-child(odd) {
+    background-color:#fff;
+  }  
+  .table tr:nth-child(even) {
+    background-color:#F0F8FF;
+  } 
+/* FAZER QUEBRA LINHA NA TABELA */
+  td{
+       word-wrap:break-word;
+    }
+
+/* DIV QUE VAI RESUMIR NO RELATÓRIO   */
+
+.fieldset-border {
+  border: 1px groove #ddd !important;
+  padding: 0 1.4em 1.4em 1.4em !important;
+  margin: 0 0 1.5em 0 !important;
+  -webkit-box-shadow: 0px 0px 0px 0px #000;
+  box-shadow: 0px 0px 0px 0px #000;
+}
+
+.fieldset-border .legend-border {
+  font-size: 1.0em !important;
+  text-align: left !important;
+  width: auto;
+  padding: 0 10px;
+  border-bottom: none;
+}
