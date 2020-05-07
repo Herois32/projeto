@@ -9,7 +9,7 @@ class agendaController extends controller {
 	          unset($_SESSION['cLogin']);
 	          unset($_SESSION['cId']);
 	          session_destroy();
-	          header("location:".BASE_URL."login");
+	          header("location:".BASE_URL."login/sair");
 	    }else{ 		
 
 		$dados = array();
@@ -30,7 +30,7 @@ class agendaController extends controller {
 	          unset($_SESSION['cLogin']);
 	          unset($_SESSION['cId']);
 	          session_destroy();
-	          header("location:".BASE_URL."login");
+	          header("location:".BASE_URL."login/sair");
 	    }else{ 
 
 	    	$dados = array();
@@ -67,7 +67,7 @@ class agendaController extends controller {
 		          unset($_SESSION['cLogin']);
 		          unset($_SESSION['cId']);
 		          session_destroy();
-		          header("location:".BASE_URL."login");
+		          header("location:".BASE_URL."login/sair");
 		    }else{ 		
 
 			if(!empty($_POST['id'])){

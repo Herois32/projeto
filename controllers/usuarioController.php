@@ -20,7 +20,7 @@ class usuarioController extends controller{
 
 		          session_destroy();
 
-		          header("Location:".BASE_URL."login");
+		          header("Location:".BASE_URL."login/sair");
 
 		    }else{
 
@@ -79,7 +79,7 @@ class usuarioController extends controller{
 
 		          session_destroy();
 
-		          header("Location:".BASE_URL."login");
+		          header("Location:".BASE_URL."login/sair");
 
 		    }else{		
 
@@ -142,7 +142,7 @@ class usuarioController extends controller{
 
 		          session_destroy();
 
-		          header("Location:".BASE_URL."login");
+		          header("Location:".BASE_URL."login/sair");
 
 		    }else{
 
@@ -169,7 +169,7 @@ class usuarioController extends controller{
 
 		          session_destroy();
 
-		          header("Location:".BASE_URL."login");
+		          header("Location:".BASE_URL."login/sair");
 
 		    }else{
 					$dados = array();
@@ -211,7 +211,7 @@ class usuarioController extends controller{
 
 		          session_destroy();
 
-		          header("Location:".BASE_URL."login");
+		          header("Location:".BASE_URL."login/sair");
 
 		    }else{
 					$dados = array();
@@ -224,7 +224,7 @@ class usuarioController extends controller{
 							exit;
 					}else{
 
-						header("Location:".BASE_URL."login");
+						header("Location:".BASE_URL."login/sair");
 
 					}
 

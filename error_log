@@ -2381,3 +2381,338 @@ Stack trace:
 #0 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(3): require()
 #1 {main}
   thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/config.php on line 23
+[27-Apr-2020 16:15:02 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:02 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 16:15:04 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:04 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 16:15:04 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:04 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 16:15:04 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:04 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 16:15:04 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:05 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 16:15:05 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:05 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 16:15:11 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:11 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 16:15:13 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:13 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 16:15:13 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[27-Apr-2020 16:15:13 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[27-Apr-2020 17:07:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 96
+[27-Apr-2020 17:22:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 96
+[27-Apr-2020 17:24:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 94
+[27-Apr-2020 17:41:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 94
+[27-Apr-2020 17:44:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 94
+[27-Apr-2020 17:49:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 94
+[27-Apr-2020 17:51:06 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 94
+[27-Apr-2020 17:52:51 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 94
+[27-Apr-2020 17:55:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 17:56:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 17:57:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 17:58:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:00:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:04:36 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:22:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:22:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:22:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:22:32 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:22:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:22:55 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:23:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:23:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:24:25 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:24:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:24:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:25:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:26:46 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/aulasController.php on line 41
+[27-Apr-2020 18:27:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/aulasController.php on line 41
+[27-Apr-2020 18:27:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/aulasController.php on line 41
+[27-Apr-2020 18:27:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/aulasController.php on line 41
+[27-Apr-2020 18:28:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:32:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function uploadArquivo() on null in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/aulasController.php:33
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): aulasController->index()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(20): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/aulasController.php on line 33
+[27-Apr-2020 18:44:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:45:17 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 51
+[27-Apr-2020 18:46:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:47:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:48:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:48:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:48:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[27-Apr-2020 18:50:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$limitar_tamanho' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Arquivos.php on line 99
+[28-Apr-2020 00:17:44 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/painel.php on line 20
+[28-Apr-2020 00:17:55 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/painel.php on line 20
+[29-Apr-2020 10:30:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/sofdev27/public_html/subdominio/George/conhecermais/config.php:23
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(3): require()
+#1 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/config.php on line 23
+[29-Apr-2020 10:40:33] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php on line 8
+[29-Apr-2020 10:40:37] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php on line 8
+[29-Apr-2020 10:42:39] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php on line 5
+[29-Apr-2020 10:46:13] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php on line 5
+[29-Apr-2020 18:05:29] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[29-Apr-2020 18:08:55] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[29-Apr-2020 18:29:25] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[29-Apr-2020 19:47:04 America/Fortaleza] PHP Fatal error:  Uncaught PharException: phar "/home2/sofdev27/public_html/subdominio/George/conhecermais/composer.phar" SHA1 signature could not be verified: broken signature in /home2/sofdev27/public_html/subdominio/George/conhecermais/composer.phar:23
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/composer.phar(23): Phar::mapPhar('composer.phar')
+#1 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/composer.phar on line 23
+[29-Apr-2020 19:47:40 America/Fortaleza] PHP Fatal error:  Uncaught PharException: phar "/home2/sofdev27/public_html/subdominio/George/conhecermais/composer.phar" SHA1 signature could not be verified: broken signature in /home2/sofdev27/public_html/subdominio/George/conhecermais/composer.phar:23
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/composer.phar(23): Phar::mapPhar('composer.phar')
+#1 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/composer.phar on line 23
+[29-Apr-2020 20:02:19] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[29-Apr-2020 21:56:11 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 15
+[29-Apr-2020 21:56:11 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 35
+[29-Apr-2020 22:06:42 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Usuarios::getUsuarios(), 1 passed in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/usuarioController.php on line 33 and exactly 2 expected in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php:80
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/usuarioController.php(33): Usuarios->getUsuarios('7')
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): usuarioController->perfilUsuario()
+#2 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#3 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php on line 80
+[29-Apr-2020 23:41:05 America/Fortaleza] PHP Parse error:  syntax error, unexpected '.', expecting '{' in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 6
+[29-Apr-2020 23:41:30 America/Fortaleza] PHP Fatal error:  Class 'AnotherClass' not found in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 6
+[29-Apr-2020 23:41:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Cannot call constructor in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:9
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(41): psckttransparenteController->__construct()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 9
+[29-Apr-2020 23:42:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Store' not found in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:11
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->index()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 11
+[29-Apr-2020 23:45:28 America/Fortaleza] PHP Warning:  require(views/cart_psckttransparente.php): failed to open stream: No such file or directory in /home2/sofdev27/public_html/subdominio/George/conhecermais/core/controller.php on line 15
+[29-Apr-2020 23:45:28 America/Fortaleza] PHP Warning:  require(views/cart_psckttransparente.php): failed to open stream: No such file or directory in /home2/sofdev27/public_html/subdominio/George/conhecermais/core/controller.php on line 15
+[29-Apr-2020 23:45:28 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'views/cart_psckttransparente.php' (include_path='.:/opt/php71/lib/php') in /home2/sofdev27/public_html/subdominio/George/conhecermais/core/controller.php on line 15
+[30-Apr-2020 10:57:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method Usuarios::updateStatus() in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php:83
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/homeController.php(75): Usuarios->getUsuarios('1', 'Online')
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): homeController->painel()
+#2 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#3 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php on line 83
+[30-Apr-2020 10:57:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method Usuarios::updateStatus() in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php:83
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/homeController.php(75): Usuarios->getUsuarios('1', 'Online')
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): homeController->painel()
+#2 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#3 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php on line 83
+[30-Apr-2020 10:57:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method Usuarios::updateStatus() in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php:83
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/homeController.php(75): Usuarios->getUsuarios('1', 'Online')
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): homeController->painel()
+#2 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#3 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php on line 83
+[30-Apr-2020 13:09:52 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Usuarios::getUsuarios(), 1 passed in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/usuarioController.php on line 33 and exactly 2 expected in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php:80
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/usuarioController.php(33): Usuarios->getUsuarios('2')
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): usuarioController->perfilUsuario()
+#2 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#3 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Usuarios.php on line 80
+[30-Apr-2020 22:26:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/usr/certificado.php on line 12
+[30-Apr-2020 22:27:08 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/usr/certificado.php on line 12
+[30-Apr-2020 22:29:05 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/usr/certificado.php on line 12
+[30-Apr-2020 22:29:10 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/usr/certificado.php on line 12
+[30-Apr-2020 22:29:10 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/usr/certificado.php on line 12
+[30-Apr-2020 22:36:16 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/usr/certificado.php on line 12
+[03-May-2020 14:32:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected '"Lente de contato"' (T_CONSTANT_ENCAPSED_STRING) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 65
+[03-May-2020 15:00:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 93
+[03-May-2020 15:00:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 93
+[03-May-2020 15:00:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 93
+[03-May-2020 17:11:16 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:11:16 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:12:45 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:12:45 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:13:44 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:13:44 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:15:08 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:15:08 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:21:48 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:21:48 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:26:50 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:26:50 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:36:57 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 17:36:57 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 18:24:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 44
+[03-May-2020 18:24:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 44
+[03-May-2020 18:24:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 44
+[03-May-2020 18:24:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 44
+[03-May-2020 19:22:24 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 19:22:24 America/Fortaleza] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sofdev27/public_html/subdominio/George/conhecermais/vendor/pagseguro/pagseguro-php-sdk/source/Helpers/Currency.php on line 47
+[03-May-2020 20:48:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:83
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 83
+[03-May-2020 20:49:25 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$creditCard' (T_VARIABLE) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 77
+[03-May-2020 20:50:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 19
+[03-May-2020 20:53:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:01:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:07:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:17:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:26:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:28:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:32:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:33:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:40:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:56:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 21:59:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[03-May-2020 22:00:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[04-May-2020 21:00:34 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/listaMsg.php on line 42
+[04-May-2020 21:05:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 78
+[04-May-2020 21:05:26 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/listaMsg.php on line 43
+[04-May-2020 21:15:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 88
+[04-May-2020 21:16:15 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 88
+[04-May-2020 21:26:51 America/Fortaleza] PHP Warning:  POST Content-Length of 1120544301 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[04-May-2020 21:28:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function Avisos() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php:94
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): mensagemController->editarMsg('10')
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 94
+[04-May-2020 21:28:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method Avisos::getMsgId() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php:96
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): mensagemController->editarMsg('10')
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 96
+[04-May-2020 21:29:05 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/editarMsg.php on line 10
+[04-May-2020 21:42:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 103
+[04-May-2020 21:42:43 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 133
+[04-May-2020 22:09:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function Avisos() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php:108
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): mensagemController->atualizar()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 108
+[04-May-2020 22:10:25 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/listaMsg.php on line 38
+[04-May-2020 22:10:53 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/listaMsg.php on line 38
+[04-May-2020 22:11:50 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Avisos::getMsgId(), 0 passed in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 82 and exactly 1 expected in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php:63
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php(82): Avisos->getMsgId()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): mensagemController->listaMsg()
+#2 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#3 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/models/Avisos.php on line 63
+[04-May-2020 22:14:41 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/listaMsg.php on line 39
+[04-May-2020 22:15:45 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/listaMsg.php on line 39
+[04-May-2020 22:16:35 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/listaMsg.php on line 39
+[04-May-2020 22:55:37 America/Fortaleza] PHP Warning:  POST Content-Length of 499234589 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[04-May-2020 22:55:41 America/Fortaleza] PHP Warning:  POST Content-Length of 499234589 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[04-May-2020 23:08:44 America/Fortaleza] PHP Warning:  POST Content-Length of 515478410 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[04-May-2020 23:22:14 America/Fortaleza] PHP Warning:  POST Content-Length of 515478403 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
+[05-May-2020 09:36:53 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/listaMsg.php on line 43
+[05-May-2020 09:37:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function listaMensagens() on null in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php:140
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): mensagemController->deletarMsg('1')
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/mensagemController.php on line 140
+[05-May-2020 11:17:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method PagSeguro\Resources\Factory\Item::addItem() in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php:84
+Stack trace:
+#0 /home2/sofdev27/public_html/subdominio/George/conhecermais/core/Core.php(43): psckttransparenteController->checkout()
+#1 /home2/sofdev27/public_html/subdominio/George/conhecermais/index.php(27): Core->run()
+#2 {main}
+  thrown in /home2/sofdev27/public_html/subdominio/George/conhecermais/controllers/psckttransparenteController.php on line 84
+[05-May-2020 13:05:01 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:05:01 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:05:01 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166
+[05-May-2020 13:05:15 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:05:15 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:05:15 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166
+[05-May-2020 13:30:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:30:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:30:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166
+[05-May-2020 13:30:41 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:30:41 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:30:41 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166
+[05-May-2020 13:33:59 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:33:59 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:33:59 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166
+[05-May-2020 13:34:01 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:34:01 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:34:01 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166
+[05-May-2020 13:34:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:34:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:34:36 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166
+[05-May-2020 13:34:44 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:34:44 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:34:44 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166
+[05-May-2020 13:35:00 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 107
+[05-May-2020 13:35:00 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 131
+[05-May-2020 13:35:00 America/Fortaleza] PHP Warning:  Invalid argument supplied for foreach() in /home2/sofdev27/public_html/subdominio/George/conhecermais/views/admin/charts.php on line 166

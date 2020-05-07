@@ -7,6 +7,8 @@
                </center>
                <p>&nbsp;</p>
 
+               <?php if(!empty($info)): ?>
+
                 <img src="<?php echo BASE_URL; ?>gerar_certificado/certificado.jpg" alt="Certificado" width="400" height="270">
                 
                <?php foreach($info as $key): ?>
@@ -19,7 +21,7 @@
 
         
           <?php endforeach; ?>
-
+        <?php endif; ?>
       <div class="form-group">
       <label class="col-md-4 control-label"></label>
       <div class="col-md-4">

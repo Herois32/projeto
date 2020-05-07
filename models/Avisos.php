@@ -6,11 +6,13 @@
 class Avisos extends model{
 	
 	public function getAlunoOline($status, $id_roles){
-
-		$sql = "SELECT usr_nome, usr_status, usr_sexo FROM tb_usuarios WHERE usr_hora > :usr_hora AND usr_id_roles = :usr_id_roles ";
+		$status = "Online";
+		$sql = "SELECT usr_nome, usr_status, usr_sexo FROM tb_usuarios WHERE usr_hora > :usr_hora AND usr_status = :usr_status 
+		AND usr_id_roles = :usr_id_roles";
 		$sql = $this->db->prepare($sql);
-		$sql->bindValue(':usr_hora', date('H:i:s', strtotime("-45 minutes")));
+		$sql->bindValue(':usr_hora', date('H:i:s', strtotime("-5 minutes")));
 		$sql->bindValue(':usr_id_roles', $id_roles);
+		$sql->bindValue(':usr_status', $status);
 		$sql->execute();
 
 		if($sql->rowCount() > 0){
@@ -25,11 +27,13 @@ class Avisos extends model{
 	public function qtdOnline($status, $id_roles){
 
 		$array = array();
-
-		$sql = "SELECT COUNT(usr_nome) as total FROM tb_usuarios WHERE usr_hora > :usr_hora AND usr_id_roles = :usr_id_roles ";
+		$status = "Online";
+		$sql = "SELECT COUNT(usr_nome) as total FROM tb_usuarios WHERE usr_hora > :usr_hora AND usr_status = :usr_status
+		AND usr_id_roles = :usr_id_roles ";
 		$sql = $this->db->prepare($sql);
-		$sql->bindValue(':usr_hora', date('H:i:s', strtotime("-45 minutes")));
+		$sql->bindValue(':usr_hora', date('H:i:s', strtotime("-5 minutes")));
 		$sql->bindValue(':usr_id_roles', $id_roles);
+		$sql->bindValue(':usr_status', $status);
 		$sql->execute();
 
 		if($sql->rowCount() > 0){
@@ -54,6 +58,39 @@ class Avisos extends model{
 			return false;
 		}
 	}
+
+
+	public function listaMensagens(){
+
+		$sql = "SELECT * FROM tb_mensagens ORDER BY ms_id DESC";
+		$sql = $this->db->query($sql);
+		$sql->execute();
+
+		if($sql->rowCount() > 0){
+			$sql = $sql->fetchAll();
+			return $sql;
+		}else{
+			return false;
+		}
+	}	
+
+
+	public function getMsgId($id){
+
+		$sql = "SELECT * FROM tb_mensagens WHERE ms_id = :ms_id";
+		$sql = $this->db->prepare($sql);
+		$sql->bindValue(':ms_id', $id);
+		$sql->execute();
+
+		if($sql->rowCount() > 0){
+			$sql = $sql->fetchAll();
+			return $sql;
+		}else{
+			return false;
+		}
+	}
+
+
 
 	public function qtdMensagens(){
 
@@ -98,6 +135,30 @@ class Avisos extends model{
 			return false;
 		}
 
+	}
+
+	public function updateMsg($id, $titulo, $mensag, $data){
+
+		$sql = "UPDATE tb_mensagens SET ms_titulo = :ms_titulo, ms_descricao = :ms_descricao, ms_data = :ms_data WHERE ms_id = :ms_id ";
+		$sql = $this->db->prepare($sql);
+		$sql->bindValue(':ms_titulo', $titulo);
+		$sql->bindValue(':ms_descricao', $mensag);
+		$sql->bindValue(':ms_data', $data);
+		$sql->bindValue(':ms_id', $id);
+		$sql->execute();
+
+		return true;
+
+	}
+
+	public function delMsg($id){
+
+		$sql = "DELETE FROM tb_mensagens WHERE ms_id = :ms_id";
+		$sql = $this->db->prepare($sql);
+		$sql->bindValue(':ms_id', $id);
+		$sql->execute();
+
+		return true;
 	}
 
 }

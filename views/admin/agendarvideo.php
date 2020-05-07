@@ -27,7 +27,7 @@
 <p>&#160;</p>
 
 </div>
-<!--action="<?php echo BASE_URL; ?>aulas/montarAulas"-->
+<!-- <form action="<?php echo BASE_URL; ?>aulas" method="POST" enctype="multipart/form-data" > -->
 <form id="form_ulpoad" method="POST" enctype="multipart/form-data">
 
 <div class="form-row">

@@ -1,6 +1,8 @@
 <?php
 session_start();
+require 'vendor/autoload.php';
 require 'config.php';
+
 
 spl_autoload_register(function($class){
 
@@ -15,6 +17,11 @@ spl_autoload_register(function($class){
 	}
 
 });
+
+/*$log = new Monolog\Logger("Avisos");
+$log->pushHandler(new Monolog\Handler\StreamHandler('erros.log', Monolog\Logger::WARNING));*/
+
+
 
 $core = new Core();
 $core->run();

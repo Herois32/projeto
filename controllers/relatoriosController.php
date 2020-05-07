@@ -14,7 +14,7 @@ class relatoriosController extends controller{
 
 		          session_destroy();
 
-		          header("Location:".BASE_URL."login");
+		          header("Location:".BASE_URL."login/sair");
 
 		    }else{	
 
@@ -41,7 +41,7 @@ class relatoriosController extends controller{
 
 		    session_destroy();
 
-		    header("Location:".BASE_URL."login");
+		    header("Location:".BASE_URL."login/sair");
 
 		    }else{		
 
@@ -70,7 +70,7 @@ class relatoriosController extends controller{
 
 		    session_destroy();
 
-		    header("Location:".BASE_URL."login");
+		    header("Location:".BASE_URL."login/sair");
 
 		    }else{
 
@@ -120,7 +120,7 @@ class relatoriosController extends controller{
 
 		    session_destroy();
 
-		    header("Location:".BASE_URL."login");
+		    header("Location:".BASE_URL."login/sair");
 
 		    }else{		
 
@@ -137,7 +137,7 @@ class relatoriosController extends controller{
 
 						$dados['dataInicial'] = $dataInicial;
 						$dados['dataFim']     = $dataFim;	
-									
+								print_r($dados);	
 						$this->loadTemplate('admin/comparativo', $dados);
 						exit;
 
@@ -157,7 +157,7 @@ class relatoriosController extends controller{
 					$dados['info'] = $comparativo->getComparativo($dataInicial, $dataFim);
 					$dados['dataInicial'] = $dataInicial;
 					$dados['dataFim']     = $dataFim;
-
+					print_r($dados);	
 					$this->loadTemplate('admin/comparativo', $dados);
 					exit;	
 

@@ -11,8 +11,8 @@ class aulasController extends controller{
 	          unset($_SESSION['cLogin']);
 	          unset($_SESSION['cId']);
 	          session_destroy();
-	          header("location:".BASE_URL."login");
-	    }else{    		
+	          header("location:".BASE_URL."login/sair");
+	    }else{  
 
 			$this->loadTemplate('admin/agendarvideo');
 			exit;
@@ -26,7 +26,7 @@ class aulasController extends controller{
 	          unset($_SESSION['cLogin']);
 	          unset($_SESSION['cId']);
 	          session_destroy();
-	          header("location:".BASE_URL."login");
+	          header("location:".BASE_URL."login/sair");
 	    }else{ 		
 
 			$dados = array();
@@ -72,7 +72,7 @@ class aulasController extends controller{
 	          unset($_SESSION['cLogin']);
 	          unset($_SESSION['cId']);
 	          session_destroy();
-	          header("location:".BASE_URL."login");
+	          header("location:".BASE_URL."login/sair");
 	    }else{ 		
 
 			$dados = array();

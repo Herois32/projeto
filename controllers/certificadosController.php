@@ -15,7 +15,7 @@ class certificadosController extends controller{
 
 		          session_destroy();
 
-		          header("Location:".BASE_URL."login");
+		          header("Location:".BASE_URL."login/sair");
 
 		    }else{		
 
@@ -26,6 +26,7 @@ class certificadosController extends controller{
 				$id = $_SESSION['cId'];
 
 				$dados['info'] = $gerarCertificado->dadosUsuario($id);
+				//print_r($dados);
 
 				$this->loadTemplate('usr/certificado', $dados);	
 				exit;

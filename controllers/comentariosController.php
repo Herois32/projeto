@@ -9,7 +9,7 @@ class comentariosController extends controller {
           unset($_SESSION['cLogin']);
           unset($_SESSION['cId']);
           session_destroy();
-          header("Location:".BASE_URL."login");
+          header("Location:".BASE_URL."login/sair");
 
           exit;
       	}else{	
@@ -32,7 +32,7 @@ class comentariosController extends controller {
 					exit;					
 
 				}else{
-					header("Location:".BASE_URL."login");
+					header("Location:".BASE_URL."login/sair");
 				}
 
 			}
@@ -48,7 +48,7 @@ class comentariosController extends controller {
 	          unset($_SESSION['cLogin']);
 	          unset($_SESSION['cId']);
 	          session_destroy();
-	          header("Location:".BASE_URL."login");
+	          header("Location:".BASE_URL."login/sair");
 
 	    }else{ 
 

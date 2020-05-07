@@ -20,7 +20,7 @@
   <link href="<?php echo BASE_URL; ?>assets/css/style.css" rel="stylesheet">
 
   
-
+ <script src="<?php echo BASE_URL; ?>assets/vendor/jquery/jquery.min.js"></script>
 
 </head>
 
@@ -74,6 +74,7 @@
             <a class="collapse-item" href="<?php echo BASE_URL; ?>mensagem">Cadastro Anúncio</a>
             <a class="collapse-item" href="<?php echo BASE_URL; ?>usuario/cadastrarUsuario">Cadastro Admin</a>
             <a class="collapse-item" href="<?php echo BASE_URL; ?>usuario/listar">Listar Admin</a>
+            <a class="collapse-item" href="<?php echo BASE_URL; ?>mensagem/listaMsg">Listar Anúncio</a>
           </div>
         </div>
       </li>
@@ -134,7 +135,7 @@
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="<?php echo BASE_URL; ?>pagamento">
+        <a class="nav-link" href="<?php echo BASE_URL; ?>psckttransparente">
           <i class="fas fa-fw fa-table"></i>
           <span>Inscrição</span></a>
       </li>
@@ -414,7 +415,7 @@
 
 
 <!-- Bootstrap core JavaScript-->
-  <script src="<?php echo BASE_URL; ?>assets/vendor/jquery/jquery.min.js"></script>
+ 
 
  <script src="<?php echo BASE_URL; ?>assets/js/script.js"></script>
 

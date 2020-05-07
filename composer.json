@@ -2,7 +2,8 @@
 
 	"require":{
 
-		"monolog/monolog":"1.0.*"
+		"monolog/monolog":"1.0.*",
+		"pagseguro/pagseguro-php-sdk": "^6.0"
 	}
 
 }

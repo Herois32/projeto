@@ -11,7 +11,7 @@ class Arquivos extends model{
 				if($this->VerificarAula($dataInicio)){
 				
 							    if($this->validarExtensao($nome_arquivo)){
-							    	//if($this->validarTamanho($tamanho_arquivo)){
+							    	if($this->validarTamanho($tamanho_arquivo)){
 						
 									    $extensao = strtolower(substr($_FILES['arquivo']['name'], -4)); //pega a extensao do arquivo
 									    $novo_nome = md5(time()) . $extensao; //define o nome do arquivo
@@ -20,15 +20,13 @@ class Arquivos extends model{
 									    
 									   	$sql = "INSERT INTO tb_aulas (al_dataInicio, al_dataFim, al_horaInico, al_horaFim, al_curso, al_arquivos) 
 												VALUES(:al_dataInicio, :al_dataFim, :al_horaInico, :al_horaFim, :al_curso, :al_arquivos)";
-										
-									//}else{
-										//return false;
-									//}
-									
-								//}else{
-									//return false;
-								//}
-												
+
+					
+
+
+
+
+
 									$sql = $this->db->prepare($sql);
 									$sql->bindValue(':al_dataInicio', $dataInicio);
 									$sql->bindValue(':al_dataFim', $dataFim);
@@ -44,13 +42,19 @@ class Arquivos extends model{
 										return false;
 									}
 
-									
+									//IF DO VERIFICAR O TAMANHO			
+									}else{
+									return false;
+									}		
+
 					//IF DO VERIFICAR EXTENSÃO
 					}else{
 					return false;
 					}
 									
-				
+
+									
+			//IF DO VERIFICAR A DATA 
 			}else{
 				return false;
 			}
@@ -92,16 +96,16 @@ class Arquivos extends model{
 			
 	}
 
-	//private function validarTamanho($tamanho_arquivo){
+	private function validarTamanho($tamanho_arquivo){
 		$limitar_tamanho = "sim";
-		$tamanho_bytes = "75097152";
+		$tamanho_bytes = 1024 * 1024 * 1000; //"975097152";
 
 		if (($limitar_tamanho = "sim") && ($tamanho_arquivo < $tamanho_bytes)){
 					return true;
 				}else{
 					return false;
 					}		
-	//}
+	}
 
 	private function pegaExtensao($nome_arquivo){
 		  $ext = explode('.',$nome_arquivo);

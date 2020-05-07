@@ -25,7 +25,7 @@ class Usuarios extends model {
 
 					$id = $_SESSION['cId'];
 									
-					$this->contarLogar($id, $qtd);
+					//$this->contarLogar($id, $qtd);
 					return true;
 				} else {
 					return false;
@@ -62,7 +62,7 @@ class Usuarios extends model {
 	}	
 
 
-	private function contarLogar($id, $qtd){
+	/*private function contarLogar($id, $qtd){
 
 		$dataAcesso = date('Y-m-d H:i:s');
 
@@ -75,7 +75,7 @@ class Usuarios extends model {
 
 		return true;
 
-	}	
+	}	*/
 
 	public function getUsuarios($id, $status){
 
@@ -206,6 +206,31 @@ class Usuarios extends model {
 
 	}	
 
+	/* FUNÇÃO PARA CADASTRAR UM NOVO USUARIO COMUM */
+	public function cadastrarUsuarios($name, $cpf, $email, $senha, $data_registro, $sexo, $telefone, $status, $idRoles, $logado, $Acesso, $ip, $hora){
+	
+			$sql = "INSERT INTO tb_usuarios(usr_email, usr_password, usr_nome, usr_data_registro, usr_sexo, usr_telefone, usr_cpf, usr_status, usr_id_roles, usr_logado, usr_ultimo_acesso, usr_ip, usr_hora)
+					VALUES(:usr_email, :usr_password, :usr_nome, :usr_data_registro, :usr_sexo, :usr_telefone, :usr_cpf, :usr_status, :usr_id_roles, :usr_logado, :usr_ultimo_acesso, :usr_ip, :usr_hora)";
+			$sql = $this->db->prepare($sql);
+			$sql->bindValue(':usr_email', $email);
+			$sql->bindValue(':usr_password', md5($senha));
+			$sql->bindValue(':usr_nome', $name);
+			$sql->bindValue(':usr_data_registro', $data_registro);
+			$sql->bindValue(':usr_sexo', $sexo);		
+			$sql->bindValue(':usr_telefone', $telefone);
+			$sql->bindValue(':usr_cpf', $cpf);
+			$sql->bindValue(':usr_status', $status);
+			$sql->bindValue(':usr_id_roles', $idRoles);
+			$sql->bindValue(':usr_logado', $logado);
+			$sql->bindValue(':usr_ultimo_acesso', $Acesso);
+			$sql->bindValue(':usr_ip', $ip);
+			$sql->bindValue(':usr_hora', $hora);
+			$sql->execute();
+	
+			return $this->db->lastInsertId();
+
+	}	
+
 	public function updateUsuario($tel, $id){
 
 		$sql = "UPDATE tb_usuarios SET usr_telefone = :usr_telefone WHERE usr_id = :usr_id";
@@ -226,7 +251,7 @@ class Usuarios extends model {
 		$sql->execute();
 
 		return true;
-	}	
+	}
 
 
 
