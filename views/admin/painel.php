@@ -28,11 +28,16 @@ video {
 
   <div class="embed-responsive embed-responsive-21by9">
 
-  <video width="400" controls>
-    <source src="../arquivos/<?php echo $chave['al_arquivos']; ?>" type="video/mp4">
+  <!--<video width="400" controls>
+   <source src="../arquivos/<?php echo $chave['al_arquivos']; ?>" type="video/mp4"> 
     <source src="mov_bbb.ogg" type="video/ogg">
-  </video>
+  </video>-->
 
+<object width="425" height="350">
+<param name="movie" value="https://rtcmulticonnection.herokuapp.com/demos/video-conferencing.html?roomid=a793wbn6dwv" />
+<video src="https://rtcmulticonnection.herokuapp.com/demos/video-conferencing.html?roomid=a793wbn6dwv"></video>
+<embed src="https://rtcmulticonnection.herokuapp.com/demos/video-conferencing.html?roomid=a793wbn6dwv" type="application/x-shockwave-flash" width="425" height="350" />
+</object>
 
   </div>
 <?php }else if($chave['al_dataInicio'] == $data_aula){ ?>

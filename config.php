@@ -5,11 +5,11 @@ require 'environment.php';
 
 $config = array();
 if(ENVIRONMENT == 'development') {
-	define("BASE_URL", "http://localhost/classificados_mvc/");
-	$config['dbname'] = 'classificados';
+	define("BASE_URL", "http://localhost/conhecermais/");
+	$config['dbname'] = 'sofdev27_sistemaaula';
 	$config['host'] = 'localhost';
 	$config['dbuser'] = 'root';
-	$config['dbpass'] = 'root';
+	$config['dbpass'] = '';
 } else {
 	define("BASE_URL", "https://sofdev.com.br/subdominio/George/conhecermais/");	
 	$config['dbname'] = 'sofdev27_sistemaaula';
